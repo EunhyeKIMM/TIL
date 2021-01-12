@@ -65,3 +65,27 @@ git 핵심 주제어들
 스테이지(stage area)
 commits
 staged
+
+
+
+git log --pretty=oneline --abbrev-commit
+로그 간략하게 하기
+
+git log --pretty=format:"%h %s" --graph
+로그 그래프로 
+
+--> 해보기 
+
+프로그래머들이 자주 쓰는 폰트 이름 --> 콘솔라스 (consolas)
+
+https://gitignore.io
+이그노어 파일 복붙 사이트
+
+project 생성할 때,
+1. touch .gitignore
+2. touch README.md
+3. git init => add => commit...
+
+
+
+Ctrl + C => vs code에서 프로그램 강제종료 단축기 
